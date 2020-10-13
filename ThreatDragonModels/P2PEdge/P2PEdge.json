@@ -5,6 +5,17 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "LINDDUN",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ]
   }
 }
